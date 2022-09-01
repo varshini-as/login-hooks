@@ -1,0 +1,23 @@
+.task-list{
+  display: flex;
+  width: 85%;
+  margin: 0 auto;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.layout{
+  display: flex;
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 7%;
+}
+
+.todo-list-input{
+  width: 85%;
+}
+
+.todo-list-input input{
+  width: 85%;
+  height: 36px;
+}
